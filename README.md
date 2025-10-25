@@ -46,11 +46,12 @@
 
 ---
 
-### 🏆 GitHub Achievements  
+### 🏅 Achievements (Badges)
 <p align="center">
-  <img 
-    src="https://github-profile-trophy.vercel.app/?username=umutozcn&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
-    alt="GitHub Trophies" />
+  <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Developer-Innovator-00c7b7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Leadership-CTO%20%26%20CIO-4c6fff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend-Expert-ff7ab6?style=for-the-badge" />
 </p>
 
 ---
