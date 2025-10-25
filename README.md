@@ -43,6 +43,7 @@
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOZCN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
     height="170" alt="Most Used Languages"/>
 </p>
+
 ---
 
 ### 🏅 Achievements (Badges)
