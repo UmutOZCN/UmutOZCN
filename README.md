@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/UmutOZCN/UmutOZCN/blob/main/umutozcandev.png" alt="Umut Özcan Banner" width="100%" />
+</p>
+
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/UmutOZCN">Umut Özcan</a></h1>
 <h3 align="center">🚀 CTO & CIO | AI-Based Application Developer | Information Systems Engineer</h3>
 
