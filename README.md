@@ -25,15 +25,6 @@
 
 ---
 
-### 📈 Most Used Languages  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOZCN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
-    height="170" alt="Most Used Languages"/>
-</p>
-
----
-
 ### 📊 GitHub Analytics  
 <p align="center">
   <img 
@@ -42,6 +33,15 @@
   <img 
     src="https://streak-stats.demolab.com?user=UmutOZCN&theme=tokyonight&hide_border=true&border_radius=12"
     height="170" alt="GitHub Streak"/>
+</p>
+
+---
+
+### 📈 Most Used Languages  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOZCN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    height="170" alt="Most Used Languages"/>
 </p>
 
 ---
