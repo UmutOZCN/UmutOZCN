@@ -25,6 +25,15 @@
 
 ---
 
+### 📈 Most Used Languages  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOZCN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    height="170" alt="Most Used Languages"/>
+</p>
+
+---
+
 ### 📊 GitHub Analytics  
 <p align="center">
   <img 
@@ -37,21 +46,13 @@
 
 ---
 
-### 📈 Most Used Languages  
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOZCN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
-    height="170" alt="Most Used Languages"/>
-</p>
-
----
-
 ### 🏅 Achievements (Badges)
 <p align="center">
   <img src="https://img.shields.io/badge/Open%20Source-Contributor-2ea44f?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/AI%20Developer-Innovator-00c7b7?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20Development-Innovator-00c7b7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Leadership-CTO%20%26%20CIO-4c6fff?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Frontend-Expert-ff7ab6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Frontend%20%26%20UX-Expert-ff7ab6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Media%20Production-Creative%20Designer-f39c12?style=for-the-badge" />
 </p>
 
 ---
