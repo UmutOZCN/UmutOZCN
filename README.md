@@ -16,24 +16,41 @@
 
 ---
 
-### 🧰 Tech Stack & Tools  
+### 🧰 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb,git,github,figma,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css,react,nodejs,mongodb" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode,photoshop,premiere" />
+</p>
+
+---
+
+### 📈 Most Used Languages  
+<p align="center">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=UmutOZCN&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&border_radius=12"
+    height="170" alt="Most Used Languages"/>
 </p>
 
 ---
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutOZCN&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=UmutOZCN&theme=react&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" height="150" />
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=UmutOZCN&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight&hide_border=true&border_radius=12"
+    height="170" alt="GitHub Stats"/>
+  <img 
+    src="https://streak-stats.demolab.com?user=UmutOZCN&theme=tokyonight&hide_border=true&border_radius=12"
+    height="170" alt="GitHub Streak"/>
 </p>
 
 ---
 
 ### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmutOZCN&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=umutozcn&theme=tokyonight&no-frame=true&no-bg=true&column=6&margin-w=10&margin-h=10"
+    alt="GitHub Trophies" />
 </p>
 
 ---
