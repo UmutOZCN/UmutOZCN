@@ -1,8 +1,8 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/UmutOZCN">Umut Özcan</a></h1>
-<h3 align="center">CTO & CIO | AI-Based Application Engineer | Information Systems Engineer</h3>
+<h3 align="center">🚀 CTO & CIO | AI-Based Application Developer | Information Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+and+Intelligent+Digital+Solutions;Engineering+AI-Based+Applications;Combining+Leadership+and+Technology;Turning+Ideas+into+Impactful+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+and+Intelligent+Digital+Solutions;Engineering+AI-Based+Applications;Combining+Leadership+and+Technology;Turning+Ideas+into+Impactful+Software" alt="Typing Animation" />
 </p>
 
 ---
@@ -10,7 +10,7 @@
 ### 🧠 About Me  
 💼 Serving as **CTO & CIO** at a media company  
 💻 Developing **AI-Based Applications** that merge creativity and engineering  
-⚙️ Strong foundation in **Frontend Development**, expanding in **Backend Systems & AI Integration**  
+⚙️ Strong foundation in **Frontend Development**, currently improving **Backend Systems & AI Integration**  
 🧩 Passionate about **Software Architecture**, **Automation**, and **Data-Driven Design**  
 🎯 Focused on transforming innovative ideas into **real-world intelligent products**
 
@@ -25,15 +25,15 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutOZCN&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmutOZCN&theme=react&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutOZCN&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=UmutOZCN&theme=react&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" height="150" />
 </p>
 
 ---
 
-### 🏆 Achievements  
+### 🏆 GitHub Achievements  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmutOZCN&theme=algolia&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=UmutOZCN&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
