@@ -1,9 +1,8 @@
-<!-- HEADER -->
-<h1 align="center">✨ Hi, I'm <a href="https://github.com/UmutOZCN">Umut Özcan</a> ✨</h1>
-<h3 align="center">🚀 CTO & CIO | AI-Based Application Engineer | Information Systems Engineer</h3>
+<h1 align="center">👋 Hi, I'm <a href="https://github.com/UmutOZCN">Umut Özcan</a></h1>
+<h3 align="center">CTO & CIO | AI-Based Application Engineer | Information Systems Engineer</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=600&lines=Building+Scalable+and+Intelligent+Digital+Solutions;Engineering+AI-Based+Applications;Combining+Leadership+and+Technology;Turning+Ideas+into+Impactful+Software" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=650&lines=Building+Scalable+and+Intelligent+Digital+Solutions;Engineering+AI-Based+Applications;Combining+Leadership+and+Technology;Turning+Ideas+into+Impactful+Software" alt="Typing SVG" />
 </p>
 
 ---
@@ -26,8 +25,15 @@
 
 ### 📊 GitHub Analytics  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=UmutOZCN&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00E7FF" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmutOZCN&theme=react&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=UmutOZCN&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=00E7FF&icon_color=00E7FF" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=UmutOZCN&theme=react&hide_border=true&ring=00E7FF&fire=00E7FF&currStreakLabel=00E7FF" height="150"/>
+</p>
+
+---
+
+### 🏆 Achievements  
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=UmutOZCN&theme=algolia&no-frame=true&margin-w=15&row=1" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -43,12 +49,6 @@
   <a href="https://github.com/UmutOZCN" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-UmutOZCN-171515?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=UmutOZCN&theme=onedark&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies" />
 </p>
 
 ---
