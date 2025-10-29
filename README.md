@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm <a href="https://github.com/UmutOZCN">Umut Özcan</a></h1>
-<h3 align="center">🚀 CTO & CIO | AI-Based Application Developer | Information Systems Engineer</h3>
+<h3 align="center">🚀 CTO & CIO | AI-Based Application Developer | Information Systems Engineerin Student</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1000&color=00E7FF&center=true&vCenter=true&width=800&lines=Building+Scalable+and+Intelligent+Digital+Solutions;Engineering+AI-Based+Applications;Combining+Leadership+and+Technology;Turning+Ideas+into+Impactful+Software" alt="Typing Animation" />
