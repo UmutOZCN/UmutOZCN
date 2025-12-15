@@ -62,7 +62,7 @@
   <a href="mailto:umutozcandev@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-umutozcandev%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="[https://www.linkedin.com/in/umut-özcan-42706390](https://www.linkedin.com/in/umut-%C3%B6zcan-427606390/)" target="_blank">
+  <a href="https://www.linkedin.com/in/umut-%C3%B6zcan-427606390" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Umut%20Özcan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/UmutOZCN" target="_blank">
